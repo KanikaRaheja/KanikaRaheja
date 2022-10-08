@@ -1,6 +1,10 @@
 ### Hi there 👋
 ![HelloTherePrivateFromPenguinsOfMadagascarGIF](https://user-images.githubusercontent.com/68729863/194699771-510b1776-badc-4dcc-83aa-7a2e9b69c28b.gif)
 
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kanika-raheja-331a7a1b2/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/KanikaRaheja)
 <!-- 
 - uses: Platane/snk@v2
   with:
