@@ -1,5 +1,7 @@
 ### Hi there 👋
+![HelloTherePrivateFromPenguinsOfMadagascarGIF](https://user-images.githubusercontent.com/68729863/194699771-510b1776-badc-4dcc-83aa-7a2e9b69c28b.gif)
 
+<!-- 
 - uses: Platane/snk@v2
   with:
     # github user name to read the contribution graph from (**required**)
@@ -34,3 +36,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 
+ ## ![snake gif](https://github.com/KanikaRaheja/KanikaRaheja/blob/output/github-contribution-grid-snake.gif)
+ 
