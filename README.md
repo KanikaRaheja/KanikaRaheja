@@ -4,7 +4,7 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kanika-raheja-331a7a1b2/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/KanikaRaheja)
+<!-- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/KanikaRaheja) -->
 <!-- 
 - uses: Platane/snk@v2
   with:
